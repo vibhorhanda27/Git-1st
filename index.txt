@@ -1,1 +1,1 @@
-version 1 of index
+version 2 of index
